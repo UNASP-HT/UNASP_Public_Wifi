@@ -1,0 +1,1 @@
+netsh wlan add filter permission=block ssid ="UNASP_Public" networktype=infrastructure & netsh wlan add filter permission=block ssid ="UNASPNeT_Resid" networktype=infrastructure
